@@ -6,7 +6,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://stanley",
+            "server": "http://stanley/BC/?tenant=default",
             "serverInstance": "BC",
             "authentication": "UserPassword",
             "startupObjectId": 22,

@@ -6,10 +6,10 @@ namespace DefaultPublisher.ALProject5;
 
 using Microsoft.Sales.Customer;
 
-pageextension 50101 CustomerListExt extends "Customer List"
+pageextension 50140 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: welcome');
+        Message('App published: Willcommen!');
     end;
 }
